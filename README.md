@@ -2,7 +2,7 @@
 Gestion des Ressources Matérielles - Système Universitaire ( Cours Mr Benabbou)
 ## 📖 Description
 
-Système complet de gestion des ressources matérielles pour une faculté, développé dans le cadre du module **Génie Logiciel** en **Master 1ère année Ingénierie des Systèmes d'Information**.
+Système complet de gestion des ressources matérielles pour une faculté, développé dans le cadre du module **Génie Logiciel** en **Master 1ère année Ingénierie des Systèmes d'Information et Intelligence artificielle **.
 
 Le système permet la coordination entre les différents acteurs : **départements**, **responsable des ressources**, **service de maintenance** et **fournisseurs**.
 
